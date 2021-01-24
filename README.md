@@ -26,7 +26,6 @@ Web realizada en Laravel 7 para compartir ofertas, promociones y cupones. Los us
 
 - Iniciar mysql y crear base de datos
 - Cambiar conexiones mysql en el archivo .env del proyecto
-- Ejecutar los siguientes comandos:
 
 Ir a CMD y ir a la carpeta del proyecto. Después ejecutamos los siguientes comandos:
 
