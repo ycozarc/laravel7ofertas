@@ -22,25 +22,6 @@ Web realizada en Laravel 7 para compartir ofertas, promociones y cupones. Los us
 - Copiar cupón a portapapeles.
 - Sweet Alert y componentes Vue JS.
 
-## Arrancar proyecto
-
-- Iniciar mysql y crear base de datos
-- Cambiar conexiones mysql en el archivo .env del proyecto
-
-Ir a CMD y ir a la carpeta del proyecto. Después ejecutamos los siguientes comandos:
-
-- php artisan migrate
-- php artisan db:seed
-
-Para arrancar el proyecto ejecutar el siguiente comando:
-
-- php artisan serv
-
-Usuarios de ejemplo en la bd:
-
-- correo@correo.com pass: 12345678
-- correo2@correo.com pass: 123456
-
 ## Imágenes
 
 <p><img src="https://i.ibb.co/BjYccbj/1.png" width="800"></p>
