@@ -7,7 +7,7 @@ Web realizada en Laravel 7 para compartir ofertas, promociones y cupones. Los us
 ## Características
 
 - Sistema de usuarios (Registro, confirmación de correo, recuperar contraseña).
-- Crear ofertas, promociones y ofertas.
+- Crear ofertas, promociones y cupones.
 - Sistema de Me gusta para valorar ofertas.
 - Sistema de comentarios anidados en ofertas.
 - Buscador.
