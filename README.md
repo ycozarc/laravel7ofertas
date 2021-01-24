@@ -8,6 +8,7 @@ Web realizada en Laravel 7 para compartir ofertas, promociones y cupones. Los us
 
 - Sistema de usuarios (Registro, confirmación de correo, recuperar contraseña).
 - Crear ofertas, promociones y cupones.
+- Marcar ofertas como activas o caducadas.
 - Sistema de Me gusta para valorar ofertas.
 - Sistema de comentarios anidados en ofertas.
 - Buscador.
@@ -15,6 +16,7 @@ Web realizada en Laravel 7 para compartir ofertas, promociones y cupones. Los us
 - Buscar dependiendo si es oferta, promoción, cupón o oferta gratuita.
 - Perfiles de usuario.
 - Panel de administración.
+- Panel de moderador para verificar ofertas nuevas.
 - Zona de usuario para administrar sus chollos.
 - Seguir / Guardar chollos y acceder a una lista de chollos guardados.
 - Comparador de precios entre ofertas para ver en que momento estuvo más barato en la página.
