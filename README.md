@@ -23,7 +23,8 @@ Web realizada desde cero en Laravel 7 para compartir ofertas, promociones y cupo
 - Comparador de precios entre ofertas para ver en que momento estuvo más barato en la página.
 - Compartir en facebook y twitter.
 - Copiar cupón a portapapeles.
-- Sweet Alert y componentes Vue JS.
+- Sweet Alert.
+-Componentes VueJS (Sistema de me gusta, seguir oferta, formato de fechas y copiar cupones entre otros).
 - Acceso a páginas y control de roles mediante middlewares y policies.
 ## Imágenes
 
