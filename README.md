@@ -24,7 +24,7 @@ Web realizada desde cero en Laravel 7 para compartir ofertas, promociones y cupo
 - Compartir en facebook y twitter.
 - Copiar cupón a portapapeles.
 - Sweet Alert y componentes Vue JS.
-
+- Acceso a páginas y control de roles mediante middlewares y policies.
 ## Imágenes
 
 <p><img src="https://i.ibb.co/BjYccbj/1.png" width="800"></p>
