@@ -24,7 +24,7 @@ Web realizada desde cero en Laravel 7 para compartir ofertas, promociones y cupo
 - Compartir en facebook y twitter.
 - Copiar cupón a portapapeles.
 - Sweet Alert.
--Componentes VueJS (Sistema de me gusta, seguir oferta, formato de fechas y copiar cupones entre otros).
+- Componentes VueJS (Sistema de me gusta, seguir oferta, formato de fechas y copiar cupones entre otros).
 - Acceso a páginas y control de roles mediante middlewares y policies.
 ## Imágenes
 
