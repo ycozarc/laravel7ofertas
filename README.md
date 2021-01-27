@@ -1,4 +1,4 @@
-<p align="center"><img src="https://supalogo.com/up/16115037395375.png" width="400"></p>
+<h1>Chollos</h1>
 
 ## Descripción
 
