@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Web realizada en Laravel 7 para compartir ofertas, promociones y cupones. Los usuarios pueden compartir, valorar o comentar ofertas. También utilizo el framework VueJS para algunos componentes.
+Web realizada desde cero en Laravel 7 para compartir ofertas, promociones y cupones. Los usuarios pueden compartir, valorar o comentar ofertas. También utilizo el framework VueJS para algunos componentes.
 
 ## Características
 
