@@ -1,4 +1,4 @@
-<h1>Chollos</h1>
+<h1>Sitio web para compartir ofertas de productos</h1>
 
 ## Descripción
 
